@@ -1,4 +1,4 @@
-# MongoDB Data Aggregation and Analysis
+# MongoDB Data Analysis
 
 This project contains MongoDB scripts showcasing various data operations such as aggregation, data filtering, transformation, and updates on mixed datasets. It is designed for practicing MongoDB's core functionalities with realistic examples.
 
